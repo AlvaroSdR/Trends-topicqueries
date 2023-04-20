@@ -48,7 +48,8 @@ The results of the search will be saved to an Excel file named top_searches.xlsx
 
 ## Note
 - Please note that the Google Trends API may change or become unavailable at any time, and this script may not work as expected in the future. This script is provided as-is and without any warranty or support.
-- Please note that you might need Google developer API keys or additional registration info. 
+- Please note that you might need Google developer API keys.
+- Please note that you might need additional documents as mentioned here ('https://github.com/googleworkspace/python-samples/blob/main/docs/quickstart/quickstart.py') 
 
 ## Disclaimer
 This script is provided as is and without any warranty. Use it at your own risk.
